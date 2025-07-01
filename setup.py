@@ -34,3 +34,5 @@ setup(
     The API for the EatBacon IOT project
     """
 )
+
+# simulacion de la implementacion de la historia de usuario 01-Rol:Scrum Master
